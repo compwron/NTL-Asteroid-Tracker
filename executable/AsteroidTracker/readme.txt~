@@ -1,0 +1,4 @@
+Works with:
+MAX_ASTEROIDS = 75;
+MAX_ANTENNAS = 20;
+TURN_LENGTH = 180;
